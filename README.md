@@ -20,7 +20,7 @@
   <span> · </span>
     <a href="https://www.instagram.com/cifertech/">INSTAGRAM</a>
   <span> · </span>
-    <a href="https://www.youtube.com/c/techcifer">YOUTUBE</a>
+    <a href="https://www.youtube.com/@techcifer">YOUTUBE</a>
   <span> · </span>
     <a href="https://cifertech.net/">WEBSITE</a>
   </h4>
