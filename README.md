@@ -66,7 +66,7 @@ The "MicroCl1ck" macro-pad is a DIY, customizable keyboard designed for increase
 - **Microcontroller**: ATmega32U4
 - **Switches**: Mechanical Keyboard Switches
 - **Volume Control**: Dual Linear Potentiometers
-- Display**: SSD1306 OLED
+- **Display**: SSD1306 OLED
 - **Rotary Encoder**
 - **LEDs**: WS2812B NeoPixel
 - **Extras**: ESP8266-07
