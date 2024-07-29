@@ -48,7 +48,7 @@ The "MicroCl1ck" macro-pad is a DIY, customizable keyboard designed for increase
 
 
 <div align="center"> 
-  <img src="https://github.com/user-attachments/assets/166b0088-407b-4a6f-8b6b-a642016b9e30" alt="screenshot" width="Auto" height="Auto" />
+  <img src="https://github.com/user-attachments/assets/657e84a9-dbe9-433e-b98a-4eb528b16a4b" alt="screenshot" width="Auto" height="Auto" />
 </div>
 
 
