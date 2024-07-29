@@ -93,7 +93,7 @@ CiferTech - [@twitter](https://twitter.com/techcifer) - CiferTech@gmali.com
 Project Link: [https://github.com/cifertech/micro-CL1CK](https://github.com/cifertech/micro-CL1CK)
 
    
-**Community Contributors**: Thank you to everyone who contributes to this project and helps improve Daeva.
+**Community Contributors**: Thank you to everyone who contributes to this project and helps improve MicroClick.
 
 
  
